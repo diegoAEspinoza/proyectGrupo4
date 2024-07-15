@@ -1,0 +1,18 @@
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Diego\Desktop\Proyecto_final\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Diego\Desktop\Proyecto_final\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Diego\Desktop\Proyecto_final\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\Diego\Desktop\Proyecto_final\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\Diego\Desktop\Proyecto_final\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Proyecto_final\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Proyecto_final\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\Diego\Desktop\Proyecto_final\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Diego\Desktop\Proyecto_final\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.pdb

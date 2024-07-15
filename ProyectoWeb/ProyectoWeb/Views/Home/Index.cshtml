@@ -1,0 +1,291 @@
+﻿@{
+    ViewBag.Title = "CompuScience Repository";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #333;
+            --secondary-color: #555;
+            --hover-color: #777;
+            --font-family: 'Arial', sans-serif;
+            --border-radius: 5px;
+            --transition: 0.3s;
+        }
+
+        body {
+            font-family: var(--font-family);
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 20px 0;
+        }
+
+        .menu {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            color: white;
+            text-decoration: none;
+            font-size: 24px;
+        }
+
+        .menu-icono {
+            width: 30px;
+            cursor: pointer;
+        }
+
+        .header-content {
+            text-align: center;
+            padding: 50px 0;
+        }
+
+        .header-text h1 {
+            margin: 0;
+            font-size: 48px;
+        }
+
+        .header-text p {
+            font-size: 18px;
+            margin-top: 10px;
+        }
+
+        .cycles {
+            padding: 50px 0;
+            text-align: center;
+        }
+
+            .cycles h2 {
+                margin-bottom: 20px;
+                font-size: 32px;
+            }
+
+        .cycles-list {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+        }
+
+        .cycle-link {
+            background-color: var(--secondary-color);
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: var(--border-radius);
+            transition: background-color var(--transition);
+        }
+
+            .cycle-link:hover {
+                background-color: var(--hover-color);
+            }
+
+        .about {
+            display: flex;
+            align-items: center;
+            padding: 50px 0;
+        }
+
+        .about-img {
+            flex: 1;
+        }
+
+            .about-img img {
+                max-width: 100%;
+                border-radius: 10px;
+            }
+
+        .about-txt {
+            flex: 1;
+            padding-left: 20px;
+        }
+
+            .about-txt h2 {
+                font-size: 32px;
+                margin-bottom: 20px;
+            }
+
+            .about-txt p {
+                font-size: 18px;
+                margin-bottom: 20px;
+            }
+
+        .btn-1 {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: var(--border-radius);
+            transition: background-color var(--transition);
+        }
+
+            .btn-1:hover {
+                background-color: var(--secondary-color);
+            }
+
+        .footer {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 40px 0;
+        }
+
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: start;
+        }
+
+        .footer-form, .footer-txt {
+            flex: 1;
+            margin-right: 20px;
+        }
+
+            .footer-form h2, .footer-txt h3 {
+                font-size: 24px;
+                margin-bottom: 10px;
+            }
+
+            .footer-form form {
+                display: flex;
+                flex-direction: column;
+            }
+
+        .campo {
+            margin-bottom: 10px;
+            padding: 10px;
+            border: none;
+            border-radius: var(--border-radius);
+        }
+
+        .btn-2 {
+            background-color: var(--secondary-color);
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: var(--border-radius);
+            cursor: pointer;
+            transition: background-color var(--transition);
+        }
+
+            .btn-2:hover {
+                background-color: var(--hover-color);
+            }
+
+        .footer-2 {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #222;
+        }
+
+        a {
+            color: white;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="menu container">
+        </div>
+        <div class="header-content container">
+            <div class="header-text">
+                <h1>CompuScience Repository</h1>
+                <p>
+                    La carrera de Computación Científica se creó en el año 2003 e inició sus actividades en 2004,
+                    con un plan de estudios que ha mejorado desde entonces, especialmente en 2006. Actualmente,
+                    la carrera cuenta con licenciados, bachilleres y egresados, algunos de los cuales han seguido
+                    maestrías y doctorados en el extranjero en países como Francia, Brasil, EE.UU. y España, y ya
+                    hay magísteres y candidatos a doctores. Además, muchos egresados se especializan en áreas empresariales
+                    y de ciencias de la computación, destacándose en instituciones empresariales.
+                </p>
+            </div>
+        </div>
+    </header>
+
+    <section class="cycles container">
+        <h2>Silabos</h2>
+        <div class="cycles-list">
+            <a href="https://drive.google.com/drive/folders/1mKfM0y2UjEGO7eGdTEczetnsJ_Q_ph47?usp=sharing" class="cycle-link">Ciclo 1</a>
+            <a href="https://drive.google.com/drive/folders/17CFmeFEFUU82og9AtvjLTCQ2HxCshjkI?usp=sharing" class="cycle-link">Ciclo 2</a>
+            <a href="https://drive.google.com/drive/folders/1orlrC22hLPUnOgDsVAA9EyofB5tjrxYT?usp=sharing" class="cycle-link">Ciclo 3</a>
+            <a href="https://drive.google.com/drive/folders/1trOTAUcs-zBMeo4AMTNbEMY3EHF3WcCb?usp=sharing" class="cycle-link">Ciclo 4</a>
+            <a href="https://drive.google.com/drive/folders/1teJIhLO1P0RbP5u8egcJoE2dqfdiMBOm?usp=sharing" class="cycle-link">Ciclo 5</a>
+        </div>
+    </section>
+
+    <section class="cycles container">
+        <h2>Documentación</h2>
+        <div class="cycles-list">
+            <a href="https://drive.google.com/drive/folders/1bllSkGWExIu70sGtpWbDIpFHRv9FZzYe?usp=sharing" class="cycle-link">Ciclo 1</a>
+            <a href="https://drive.google.com/drive/folders/1swl8X6pae_z_a0ynuf5vP8l0q-aCzme9?usp=sharing" class="cycle-link">Ciclo 2</a>
+            <a href="https://drive.google.com/drive/folders/1P0ziglegfVtEMZkKsLAJPHXh5VX_IamS?usp=sharing" class="cycle-link">Ciclo 3</a>
+            <a href="https://drive.google.com/drive/folders/1BupV2okqsv4ewa8VMw2916ib-9_gHXMm?usp=sharing" class="cycle-link">Ciclo 4</a>
+        </div>
+    </section>
+
+    <section class="direction container">
+        <!-- Sección de dirección puede ser utilizada para más contenido -->
+    </section>
+
+    <section class="about container">
+        <div class="about-img">
+            <img src="~/Resources/Images/4.jpg" alt="Nosotros">
+        </div>
+        <div class="about-txt">
+            <h2>Nosotros</h2>
+            <p>
+                Los alumnos de la Escuela de Computación Científica han creado un repositorio exclusivo para estudiantes de pregrado.
+                Inspirados por la necesidad de compartir recursos, conocimientos y proyectos, este repositorio busca fomentar la colaboración
+                y el aprendizaje colectivo. Los estudiantes han reunido materiales académicos, proyectos de investigación, códigos fuente
+                y tutoriales, creando una valiosa herramienta que promueve la excelencia académica y el desarrollo profesional dentro de la
+                comunidad estudiantil. Este esfuerzo refleja su compromiso con el progreso académico y su pasión por la computación científica.
+            </p>
+        </div>
+    </section>
+
+    <footer class="footer container">
+        <div class="footer-content">
+            <div class="footer-form">
+                <h2>Contáctanos</h2>
+                <form>
+                    <input class="campo" type="text" placeholder="Nombre">
+                    <input class="campo" type="email" placeholder="Correo">
+                    <textarea class="campo" cols="30" rows="10" placeholder="Mensaje"></textarea>
+                    <input class="btn-2" type="submit" value="Enviar">
+                </form>
+            </div>
+            <div class="footer-txt">
+                <h3>+(51) 619 7000 Anexo 1602</h3>
+                <p>compuscience2004@gmail.come</p>
+                <p><a href="http://matematicas.unmsm.edu.pe">http://matematicas.unmsm.edu.pe</a></p>
+                <p>Av. Venezuela s/n cuadra 34. Lima 1-Perú Ciudad Universitaria. UNMSM</p>
+            </div>
+        </div>
+        <div class="footer-2">
+            <p>&copy; 2024 CompuScience Repository. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego\\Desktop\\Proyecto_final\\018_SistemaGestionEscolarASPMVC-main\\ProyectoWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EA218F-F7F5-43A0-8D2F-E94FDF818E0D}|ProyectoWeb\\ProyectoWeb.csproj|c:\\users\\diego\\desktop\\proyecto_final\\018_sistemagestionescolaraspmvc-main\\proyectoweb\\proyectoweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0EA218F-F7F5-43A0-8D2F-E94FDF818E0D}|ProyectoWeb\\ProyectoWeb.csproj|solutionrelative:proyectoweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EA218F-F7F5-43A0-8D2F-E94FDF818E0D}|ProyectoWeb\\ProyectoWeb.csproj|c:\\users\\diego\\desktop\\proyecto_final\\018_sistemagestionescolaraspmvc-main\\proyectoweb\\proyectoweb\\views\\alumno\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0EA218F-F7F5-43A0-8D2F-E94FDF818E0D}|ProyectoWeb\\ProyectoWeb.csproj|solutionrelative:proyectoweb\\views\\alumno\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EA218F-F7F5-43A0-8D2F-E94FDF818E0D}|ProyectoWeb\\ProyectoWeb.csproj|c:\\users\\diego\\desktop\\proyecto_final\\018_sistemagestionescolaraspmvc-main\\proyectoweb\\proyectoweb\\views\\alumno\\reporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0EA218F-F7F5-43A0-8D2F-E94FDF818E0D}|ProyectoWeb\\ProyectoWeb.csproj|solutionrelative:proyectoweb\\views\\alumno\\reporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Proyecto_final\\018_SistemaGestionEscolarASPMVC-main\\ProyectoWeb\\ProyectoWeb\\Views\\Alumno\\Crear.cshtml",
+              "RelativeDocumentMoniker": "ProyectoWeb\\Views\\Alumno\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Proyecto_final\\018_SistemaGestionEscolarASPMVC-main\\ProyectoWeb\\ProyectoWeb\\Views\\Alumno\\Crear.cshtml",
+              "RelativeToolTip": "ProyectoWeb\\Views\\Alumno\\Crear.cshtml",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T19:22:26.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Proyecto_final\\018_SistemaGestionEscolarASPMVC-main\\ProyectoWeb\\ProyectoWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Proyecto_final\\018_SistemaGestionEscolarASPMVC-main\\ProyectoWeb\\ProyectoWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProyectoWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T09:15:26.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reporte.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Proyecto_final\\018_SistemaGestionEscolarASPMVC-main\\ProyectoWeb\\ProyectoWeb\\Views\\Alumno\\Reporte.cshtml",
+              "RelativeDocumentMoniker": "ProyectoWeb\\Views\\Alumno\\Reporte.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Proyecto_final\\018_SistemaGestionEscolarASPMVC-main\\ProyectoWeb\\ProyectoWeb\\Views\\Alumno\\Reporte.cshtml",
+              "RelativeToolTip": "ProyectoWeb\\Views\\Alumno\\Reporte.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T19:21:33.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
